@@ -76,8 +76,8 @@
   <img alt="API Gateway" src="https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=awsapigateway&logoColor=white&style=flat" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat" />
   <img alt="CloudFormation" src="https://img.shields.io/badge/CloudFormation-FF4F8B?logo=awscloudformation&logoColor=white&style=flat" />
-  <img alt="Route 53" src="https://img.shields.io/badge/Route%2053-FF9900?logo=amazonroute53&logoColor=white&style=flat" />
-  <img alt="S3" src="https://img.shields.io/badge/S3-FF9900?logo=amazons3&logoColor=white&style=flat" />
+  <img alt="Route 53" src="https://img.shields.io/badge/Route%2053-8C4FFF?logo=amazonroute53&logoColor=white&style=flat" />
+  <img alt="S3" src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat" />
 </p>
 
 <p>
@@ -102,7 +102,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" alt="CLion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=flat" />
 </div>
 
 ### AI Tools:
@@ -110,6 +109,7 @@
 <p>
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=flat" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat" />
 </p>
 
 ### Operating Systems:
