@@ -6,7 +6,7 @@
 ---
 
 <h3 align="center">
-  A software engineer building innovative, globally impactful solutions of tomorrow fueled by the breakthroughs of today.
+  A software engineer building innovative solutions of tomorrow fueled by the breakthroughs of today.
 </h3>
 
 <h3>CS & AI double-major with a Mathematics minor at the University of Kentucky (May 2027).</h3>
