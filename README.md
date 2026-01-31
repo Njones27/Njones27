@@ -96,14 +96,14 @@
 
 ### IDEs & Tools:
 
-<p>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" alt="Vim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" alt="CLion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=flat" />
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat" />
-  <img alt="CLion" src="https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white&style=flat" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat" />
-</p>
+</div>
 
 ### AI Tools:
 
