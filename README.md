@@ -119,9 +119,3 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=white&style=flat" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&count_private=true&theme=dark&show_icons=true" />
-</div>
