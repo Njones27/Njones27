@@ -100,11 +100,13 @@ Current 3x Software Development Engineer at Amazon HQ2 Arlington, VA working on 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" alt="Vim"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" alt="CLion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-plain.svg" width="40" alt="DataGrip"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dataspell/dataspell-plain.svg" width="40" alt="DataSpell"/>
 </div>
 
 ### AI Tools:
