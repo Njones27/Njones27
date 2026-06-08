@@ -11,7 +11,9 @@
 
 <h3>CS & AI double-major with a Mathematics minor at the University of Kentucky (May 2027).</h3>
 
-🔭 I'm currently working on: A Bible-based self-care journaling app powered by agentic AI for tailored responses and scripture.
+Current 3x Software Development Engineer at Amazon HQ2 Arlington, VA working on Agentic AI CAD processing
+
+🔭 In my free time I'm working no: A Bible-based self-care journaling app powered by agentic AI for tailored responses and scripture.
 
 🌱 I'm currently learning: Agentic AI (RAG, MCP), NVIDIA Isaac ROS & ROS Humble, and computer vision with NVIDIA DeepStream SDK.
 
