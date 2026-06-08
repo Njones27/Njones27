@@ -104,7 +104,7 @@ Current 3x Software Development Engineer at Amazon HQ2 Arlington, VA working on 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" alt="CLion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat" alt="Xcode"  />
 </div>
 
 ### AI Tools:
