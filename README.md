@@ -13,7 +13,8 @@
 
 🧑‍💻 Current 3x Software Development Engineer Intern at Amazon - Working on Self-Improving Agentic AI CAD processing
 
-🔭 In my free time I'm working no: A Bible-based self-care journaling app powered by agentic AI for tailored responses and scripture.
+🔭 In my free time I'm working no: A Bible-based self-care journaling app powered by agentic AI for tailored responses and scripture.  
+- You can find the app here: https://github.com/WalkWorthyApp
 
 🌱 I'm currently learning: Agentic AI (RAG, MCP), NVIDIA Isaac ROS & ROS Humble, and computer vision with NVIDIA DeepStream SDK.
 
