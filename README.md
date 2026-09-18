@@ -114,3 +114,7 @@
   <img src="https://img.shields.io/badge/OpenAI%20SDK-000000?logo=openai&logoColor=white&style=for-the-badge" height="40" alt="OpenAI SDK"/>
   <img src="https://img.shields.io/badge/Strands%20Agents%20SDK-FF9900?logo=amazonwebservices&logoColor=white&style=for-the-badge" height="40" alt="Strands Agents SDK"/>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Njones27&label=Profile%20Views&style=flat" alt="Profile Views" />
+</p>
