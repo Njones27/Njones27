@@ -67,13 +67,22 @@
 ### Cloud Platforms:
 
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white&style=flat" />
+  <!-- Cloud Platforms -->
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=flat" />
+
+  <!-- AWS Services -->
   <img alt="Lambda" src="https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white&style=flat" />
-  <img alt="API Gateway" src="https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=awsapigateway&logoColor=white&style=flat" />
+  <img alt="Bedrock" src="https://img.shields.io/badge/Bedrock-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
+  <img alt="AgentCore" src="https://img.shields.io/badge/AgentCore-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
+  <img alt="API Gateway" src="https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white&style=flat" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat" />
   <img alt="CloudFormation" src="https://img.shields.io/badge/CloudFormation-FF4F8B?logo=awscloudformation&logoColor=white&style=flat" />
   <img alt="Route 53" src="https://img.shields.io/badge/Route%2053-8C4FFF?logo=amazonroute53&logoColor=white&style=flat" />
   <img alt="S3" src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat" />
+  <img alt="IoT Core" src="https://img.shields.io/badge/IoT%20Core-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
+  <img alt="Greengrass" src="https://img.shields.io/badge/Greengrass-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
 </p>
 
 <p>
@@ -102,19 +111,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-plain.svg" width="40" alt="DataGrip"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dataspell/dataspell-plain.svg" width="40" alt="DataSpell"/>
 </div>
-
-### AI Tools:
-
-<p>
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=flat" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white&style=flat" />
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat" />
-</p>
-
-### Operating Systems:
-
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white&style=flat" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=white&style=flat" />
-</p>
