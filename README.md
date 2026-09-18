@@ -67,12 +67,7 @@
 ### Cloud Platforms:
 
 <p>
-  <!-- Cloud Platforms -->
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=flat" />
-
-  <!-- AWS Services -->
   <img alt="Lambda" src="https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white&style=flat" />
   <img alt="Bedrock" src="https://img.shields.io/badge/Bedrock-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
   <img alt="AgentCore" src="https://img.shields.io/badge/AgentCore-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
@@ -110,4 +105,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-plain.svg" width="40" alt="DataGrip"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dataspell/dataspell-plain.svg" width="40" alt="DataSpell"/>
+</div>
+
+### Agent SDKs:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Anthropic%20SDK-191919?logo=anthropic&logoColor=white&style=for-the-badge" height="40" alt="Anthropic SDK"/>
+  <img src="https://img.shields.io/badge/OpenAI%20SDK-000000?logo=openai&logoColor=white&style=for-the-badge" height="40" alt="OpenAI SDK"/>
+  <img src="https://img.shields.io/badge/Strands%20Agents%20SDK-FF9900?logo=amazonwebservices&logoColor=white&style=for-the-badge" height="40" alt="Strands Agents SDK"/>
 </div>
