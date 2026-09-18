@@ -64,13 +64,6 @@
   <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white&style=flat" />
 </p>
 
-### Version Control:
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-</p>
-
 ### Cloud Platforms:
 
 <p>
