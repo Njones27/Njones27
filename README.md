@@ -80,6 +80,7 @@
   <img alt="S3" src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat" />
   <img alt="IoT Core" src="https://img.shields.io/badge/IoT%20Core-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
   <img alt="Greengrass" src="https://img.shields.io/badge/Greengrass-232F3E?logo=amazonwebservices&logoColor=white&style=flat" />
+  <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B?logo=awscloudwatch&logoColor=white&style=flat" />
 </p>
 
 <p>
