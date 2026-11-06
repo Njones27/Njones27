@@ -15,7 +15,7 @@
 
 🔭 In my free time I'm working on:   
 - WalkWorthy, a Bible-based self-care journaling app powered by agentic AI for tailored responses and scripture: https://github.com/WalkWorthyApp
-- AWS Spark, a free website to learn AWS in K-12+ levels, find it at https://letslearncloud.com/. This is used for my AWS SBG and KY STLP partnership.
+- AWS Spark, a free website to learn AWS for K-12+ levels, find it at https://letslearncloud.com/. This is used for my AWS SBG and KY STLP partnership.
 - War Room, a fun agentic harness that feels like a tactical Mil-sim: https://github.com/Njones27/War_Room
 
 🌱 I'm currently learning: Agentic AI (RAG, MCP), NVIDIA Isaac ROS & ROS Humble, and computer vision with NVIDIA DeepStream SDK.
