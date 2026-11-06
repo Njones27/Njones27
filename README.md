@@ -11,10 +11,12 @@
 
 <h3>CS & AI double-major with a Mathematics minor at the University of Kentucky (May 2027).</h3>
 
-🧑‍💻 Current 3x Software Development Engineer Intern at Amazon - Working on Self-Improving Agentic AI CAD processing
+🧑‍💻 Previous 3x Robotics Software Development Engineer Intern at Amazon - Self-Improving Agentic AI CAD processing, Full Stack Dev, Fulfillment Center Onboarding
 
-🔭 In my free time I'm working no: A Bible-based self-care journaling app powered by agentic AI for tailored responses and scripture.  
-- You can find the app here: https://github.com/WalkWorthyApp
+🔭 In my free time I'm working on:   
+- WalkWorthy, a Bible-based self-care journaling app powered by agentic AI for tailored responses and scripture: https://github.com/WalkWorthyApp
+- AWS Spark, a free website to learn AWS in K-12+ levels, find it at https://letslearncloud.com/. This is used for my AWS SBG and KY STLP partnership.
+- War Room, a fun agentic harness that feels like a tactical Mil-sim: https://github.com/Njones27/War_Room
 
 🌱 I'm currently learning: Agentic AI (RAG, MCP), NVIDIA Isaac ROS & ROS Humble, and computer vision with NVIDIA DeepStream SDK.
 
